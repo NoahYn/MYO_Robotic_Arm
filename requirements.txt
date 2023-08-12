@@ -1,7 +1,7 @@
 gymnasium
 readchar
 pytorch
-!pip install "stable-baselines3[extra]>=2.0.0a4"
+stable-baselines3[extra]>=2.0.0a4
 
 pygame
 pyglet
